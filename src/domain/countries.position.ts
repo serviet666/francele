@@ -7,4 +7,10 @@ export const countries: Country[] = [
     longitude: 46.0558,
     name: "Ain",
   },
+  {
+    code: "02",
+    latitude: 3.3330,
+    longitude: 49.3334,
+    name: "Aisne",
+  },
 ];
